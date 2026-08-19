@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Gayatri<br><br>I'm a Software Engineer with 2+ years of experience, working as a .NET Full-Stack Developer.  <br>I enjoy solving real-world problems and building reliable, scalable applications that create actual business value.<br><br>My core strength is backend development using .NET, where I focus on clean architecture, performance, and well-structured APIs.  <br>I like understanding the problem deeply before writing code, and I take ownership of features from design to delivery.<br><br>I believe good software is not just about writing code, but about writing the right code for the right problem.<br>
+Hi 👋 I'm Gayatri<br><br>I'm a Software Engineer with 3+ years of experience, working as a .NET Full-Stack Developer.  <br>I enjoy solving real-world problems and building reliable, scalable applications that create actual business value.<br><br>My core strength is backend development using .NET, where I focus on clean architecture, performance, and well-structured APIs.  <br>I like understanding the problem deeply before writing code, and I take ownership of features from design to delivery.<br><br>I believe good software is not just about writing code, but about writing the right code for the right problem.<br>
 
 
 # 💻 Tech Stack:
